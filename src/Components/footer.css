@@ -1,0 +1,16 @@
+.footer {
+  background-color: #232323;
+  display: flex;
+  position: fixed;
+  justify-content: center;
+  bottom: 0;
+  width: 100%;
+  padding: 0.3em;
+  color: #fff;
+}
+
+.footer a {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
